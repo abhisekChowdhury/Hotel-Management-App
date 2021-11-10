@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Courses] (Table)
+       [dbo].[Departments] (Table)
+       [dbo].[StudentCourses] (Table)
+       [dbo].[StudentCourses].[IX_CourseId] (Index)
+       [dbo].[StudentCourses].[IX_StudentId] (Index)
+       [dbo].[Students] (Table)
+       [dbo].[Students].[IX_DepartmentId] (Index)
+       [dbo].[FK_Courses_Departments_DepartmentId] (Foreign Key)
+       [dbo].[FK_StudentCourses_Courses_CourseId] (Foreign Key)
+       [dbo].[FK_StudentCourses_Students_StudentId] (Foreign Key)
+       [dbo].[FK_Students_Departments_DepartmentId] (Foreign Key)
+
+** Supporting actions

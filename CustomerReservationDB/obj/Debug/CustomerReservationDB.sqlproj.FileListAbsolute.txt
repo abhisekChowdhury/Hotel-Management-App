@@ -1,0 +1,33 @@
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\HotelManageSystemApp\CustomerReservationDB\bin\Debug\CustomerReservationDB.dacpac
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\HotelManageSystemApp\CustomerReservationDB\bin\Debug\StudentRegistrationDB.dll
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\HotelManageSystemApp\CustomerReservationDB\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\HotelManageSystemApp\CustomerReservationDB\obj\Debug\CustomerReservationDB.sqlprojAssemblyReference.cache
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\HotelManageSystemApp\CustomerReservationDB\obj\Debug\StudentRegistrationDB.dll
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\HotelManageSystemApp\CustomerReservationDB\obj\Debug\StudentRegistrationDB.pdb
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\CustomerReservationDB.dacpac
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\StudentRegistrationDB.dll
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\CustomerReservationDB.sqlprojAssemblyReference.cache
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\StudentRegistrationDB.dll
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\StudentRegistrationDB.pdb
+C:\Users\Sojara\Desktop\OOP\Project\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\CustomerReservationDB.dacpac
+C:\Users\Sojara\Desktop\OOP\Project\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\StudentRegistrationDB.dll
+C:\Users\Sojara\Desktop\OOP\Project\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\Sojara\Desktop\OOP\Project\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\CustomerReservationDB.sqlprojAssemblyReference.cache
+C:\Users\Sojara\Desktop\OOP\Project\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\StudentRegistrationDB.dll
+C:\Users\Sojara\Desktop\OOP\Project\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\StudentRegistrationDB.pdb
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\CustomerReservationDB.dacpac
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\StudentRegistrationDB.dll
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\Model.xml
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\refactor.xml
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\postdeploy.sql
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\predeploy.sql
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\StudentRegistrationDB.dll
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\StudentRegistrationDB.pdb
+C:\Users\achow\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\CustomerReservationDB.dacpac
+C:\Users\achow\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\StudentRegistrationDB.dll
+C:\Users\achow\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\achow\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\CustomerReservationDB.sqlprojAssemblyReference.cache
+C:\Users\achow\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\StudentRegistrationDB.dll
+C:\Users\achow\Downloads\HotelManageSystemApp\HotelManageSystemApp\CustomerReservationDB\obj\Debug\StudentRegistrationDB.pdb

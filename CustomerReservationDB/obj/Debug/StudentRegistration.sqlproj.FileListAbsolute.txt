@@ -1,0 +1,20 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\bin\Debug\StudentRegistrationDB.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\StudentRegistration.sqlprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\Model.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\refactor.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\postdeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\predeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\StudentRegistrationDB.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\StudentRegistrationDB.pdb
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\bin\Debug\StudentRegistrationDB.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\StudentRegistration.sqlprojAssemblyReference.cache
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\Model.xml
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\refactor.xml
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\postdeploy.sql
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\predeploy.sql
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\StudentRegistrationDB.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\StudentRegistration\obj\Debug\StudentRegistrationDB.pdb

@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Customers] (Table)
+       [dbo].[Employees] (Table)
+       [dbo].[Reservations] (Table)
+       [dbo].[Rooms] (Table)
+       [dbo].[RoomType] (Table)
+       [dbo].[FK_ReservationId_Rooms_RoomId] (Foreign Key)
+       [dbo].[FK_ReservationId_Employees_EmployeeId] (Foreign Key)
+       [dbo].[FK_ReservationId_Customers_CustomerId] (Foreign Key)
+       [dbo].[FK_RoomId_RoomType_RoomTypeId] (Foreign Key)
+
+** Supporting actions

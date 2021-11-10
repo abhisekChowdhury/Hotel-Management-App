@@ -1,0 +1,32 @@
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.dacpac
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.sqlprojAssemblyReference.cache
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\StudentRegistrationDB\obj\Debug\Model.xml
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\StudentRegistrationDB\obj\Debug\refactor.xml
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\StudentRegistrationDB\obj\Debug\postdeploy.sql
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\StudentRegistrationDB\obj\Debug\predeploy.sql
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.pdb
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.dacpac
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.dll
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.sqlprojAssemblyReference.cache
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\Model.xml
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\refactor.xml
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\postdeploy.sql
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\predeploy.sql
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.dll
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.pdb
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.dacpac
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.dll
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.sqlprojAssemblyReference.cache
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.dll
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.pdb
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.dacpac
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.dll
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.sqlprojAssemblyReference.cache
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.dll
+C:\Users\Sojara\Desktop\OOP\Homework\grupal\ver3\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\StudentRegistrationDB\obj\Debug\StudentRegistrationDB.pdb

@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Courses] (Table)
+       [dbo].[Departments] (Table)
+       [dbo].[Registration] (Table)
+       [dbo].[Students] (Table)
+       [dbo].[FK_Courses_ToDepartment] (Foreign Key)
+       [dbo].[FK_Registration_ToStudents] (Foreign Key)
+       [dbo].[FK_Registration_ToCourses] (Foreign Key)
+
+** Supporting actions

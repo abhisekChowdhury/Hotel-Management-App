@@ -1,0 +1,96 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EFControllerUtilities.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EntityFramework.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EntityFramework.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\obj\Debug\EFControllerUtilities.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CopyComplete
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\obj\Debug\EFControllerUtilities.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\obj\Debug\EFControllerUtilities.pdb
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll.config
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EFControllerUtilities.pdb
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EntityFramework.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EntityFramework.xml
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\obj\Debug\EFControllerUtilities.csprojAssemblyReference.cache
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CopyComplete
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\obj\Debug\EFControllerUtilities.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Class 07 Exercises\EFControllerUtilities\obj\Debug\EFControllerUtilities.pdb
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll.config
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\bin\Debug\EFControllerUtilities.pdb
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\bin\Debug\EntityFramework.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\bin\Debug\EntityFramework.xml
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\obj\Debug\EFControllerUtilities.csprojAssemblyReference.cache
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CopyComplete
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\obj\Debug\EFControllerUtilities.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 07\Lab 07 - Student Registration Solution\EFControllerUtilities\obj\Debug\EFControllerUtilities.pdb
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll.config
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\bin\Debug\EFControllerUtilities.pdb
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\bin\Debug\EntityFramework.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\bin\Debug\EntityFramework.xml
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\obj\Debug\EFControllerUtilities.csprojAssemblyReference.cache
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CopyComplete
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\obj\Debug\EFControllerUtilities.dll
+C:\Users\Michael Hrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08Student RegistrationSolution\EFControllerUtilities\obj\Debug\EFControllerUtilities.pdb
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll.config
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EFControllerUtilities.pdb
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EntityFramework.dll
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EntityFramework.xml
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\obj\Debug\EFControllerUtilities.csprojAssemblyReference.cache
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CopyComplete
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\obj\Debug\EFControllerUtilities.dll
+C:\Users\Sphurti\Documents\Douglas\Sem5\BusApp\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\obj\Debug\EFControllerUtilities.pdb
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll.config
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EFControllerUtilities.pdb
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EntityFramework.dll
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EntityFramework.xml
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\obj\Debug\EFControllerUtilities.csprojAssemblyReference.cache
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CopyComplete
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\obj\Debug\EFControllerUtilities.dll
+C:\Users\Sphurti\Downloads\Lab08Student Registration\Lab08Student Registration\Lab08Student Registration\EFControllerUtilities\obj\Debug\EFControllerUtilities.pdb
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll.config
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EFControllerUtilities.pdb
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EntityFramework.dll
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EntityFramework.xml
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\obj\Debug\EFControllerUtilities.csprojAssemblyReference.cache
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CopyComplete
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\obj\Debug\EFControllerUtilities.dll
+C:\Users\Sphurti\Downloads\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\obj\Debug\EFControllerUtilities.pdb
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll.config
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EFControllerUtilities.dll
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EFControllerUtilities.pdb
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EntityFramework.dll
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EntityFramework.xml
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\obj\Debug\EFControllerUtilities.csprojAssemblyReference.cache
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\obj\Debug\EFControllerUtilities.csproj.CopyComplete
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\obj\Debug\EFControllerUtilities.dll
+C:\Users\Sphurti\Desktop\HotelManageSystemApp\HotelManageSystemApp\EFControllerUtilities\obj\Debug\EFControllerUtilities.pdb
